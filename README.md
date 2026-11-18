@@ -1,5 +1,5 @@
 # 📊 Automated Data Cleaning & EDA Profiler
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://automated-eda-profiler.streamlit.app)
 An interactive web application built with **Python**, **Streamlit**, **Pandas**, and **Plotly** that automates Exploratory Data Analysis (EDA), diagnoses data quality issues, cleans messy tabular datasets, and generates reproducible Python cleaning scripts.
 
 ---
